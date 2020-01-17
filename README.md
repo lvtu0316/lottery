@@ -15,5 +15,7 @@ P 按键可播放背景音乐，再次按键暂停播放。
 
 系统默认使用tagcanvas 3D球形展示，去掉 `// shape: "vring(0.5)",` 的注释可改为水平环状图形。更多的图形展示可查看 [tagcanvas]( https://www.goat1000.com/tagcanvas-functions.php) 相关使用文档。
 
+### 预览
 
+![](img/preview/111.gif)
 
